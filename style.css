@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(#e3a1e2 0%,#a9cad9 100%);
+        text-align: center;
+}
+#pic{
+    height: 150px;
+    width: 300px;
+    border-radius: 50px;
+}
+.line {
+    height: 6px;
+    width: 70px;
+    background-color: #01106e;
+    margin: 8px auto;
+}
+.links{
+   
+}
+.menu{
+ list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+#hobby{
+    font-family: 'MonteCarlo', cursive;
+}
